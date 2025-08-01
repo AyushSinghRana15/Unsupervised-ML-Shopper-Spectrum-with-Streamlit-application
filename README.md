@@ -6,6 +6,11 @@ Customer Segmentation & Product Recommendation System
 
 This project implements a full customer analytics and recommendation pipeline on retail transaction data. The solution identifies valuable customer segments using RFM-based clustering and provides product recommendations using item-based collaborative filtering. An interactive Streamlit web app brings these predictive insights to end users.
 
+<img width="1470" height="956" alt="Screenshot 2025-08-01 at 12 48 01 PM" src="https://github.com/user-attachments/assets/718f3ce4-94be-4dc9-bc47-9aef287f1926" />
+<img width="1470" height="956" alt="Screenshot 2025-08-01 at 12 48 47 PM" src="https://github.com/user-attachments/assets/ecc471ff-6aac-4cac-aee0-a5b5f61ff42b" />
+<img width="1470" height="956" alt="Screenshot 2025-08-01 at 12 49 12 PM" src="https://github.com/user-attachments/assets/e13d9faf-1c85-4f60-b88c-2ceea7109cba" />
+
+
 
 🚀 Features
 

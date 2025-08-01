@@ -38,6 +38,8 @@ This project implements a full customer analytics and recommendation pipeline on
 
 
 Customer Segmentation (Clustering):
+
+
 	•	Recency (days since last purchase)
 	•	Frequency (total number of purchases)
 	•	Monetary (total spend)

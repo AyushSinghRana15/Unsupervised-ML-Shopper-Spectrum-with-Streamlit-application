@@ -17,10 +17,20 @@ This project implements a full customer analytics and recommendation pipeline on
 
  
 📁 Project Structure
+
+
 ├── app.py                 # Streamlit app (main entry point)
+
+
 ├── cleaned_dataset.csv    # Cleaned retail transaction data
+
+
 ├── kmeans_model.pkl       # Trained KMeans model (6-feature input)
+
+
 ├── requirements.txt       # Required packages
+
+
 └── README.md              # Project overview and usage guide
 
 
@@ -40,7 +50,9 @@ Customer Segmentation (Clustering):
 
  
 	1.	Clone the repository and navigate to it:
- git clone https://github.com/your-username/your-project-name.git
+ git clone https://github.com/AyushSinghRana15/Unsupervised-ML-Shopper-Spectrum-with-Streamlit-application
+
+ 
 cd your-project-name
 
 
